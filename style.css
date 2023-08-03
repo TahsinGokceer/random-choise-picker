@@ -54,3 +54,9 @@ textarea:focus {
 .tag.highlight{
     background-color: #273c75;
 }
+
+@media(max-width: 760px){
+    .container{
+        width: 350px;
+    }
+}
